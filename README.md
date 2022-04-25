@@ -7,6 +7,6 @@
 - pip install amino.py
 - pip install amino.fix==2.3.4.1
 - pkg install git
-- git clone https://github.com/capivarafeliz/invitecapi
+- git clone https://github.com/capivarafeliz/Capithekid
 - cd capinvite
 - python invite.py
