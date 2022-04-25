@@ -6,7 +6,7 @@
 - pip install pyfiglet
 - pip install amino.py
 - pip install amino.fix==2.3.4.1
-- pkg install gitclone
+- pkg install git
 - git clone https://github.com/deluvsushi/invite
 - cd invite
 - python invite.py
