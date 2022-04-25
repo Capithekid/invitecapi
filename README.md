@@ -1,0 +1,12 @@
+# invitecapi
+- apt update -y
+- apt upgrade -y
+- pkg install python
+- pip install colored
+- pip install pyfiglet
+- pip install amino.py
+- pip install amino.fix==2.3.4.1
+- pkg install gitclone
+- git clone https://github.com/deluvsushi/invite
+- cd invite
+- python invite.py
